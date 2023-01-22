@@ -25,7 +25,7 @@ __Requirements:__  `!pip install pandas_datareader`
 
 3. __Yahoo Finance API – A Complete Guide :__ https://algotrading101.com/learn/yahoo-finance-api-guide/
 
-## __project steps__ 
+## __Project steps__ 
 
 1. We will collect the Stock Data-- The Tata Power Company Limited using Yahoo Finance API
 
@@ -36,3 +36,22 @@ __Requirements:__  `!pip install pandas_datareader`
 4. Predict the test data and plot the output
 
 5. Predict the future 30 days and plot the output
+
+<br />
+
+## Ploting price from `1996-01-01 00:00:00+05:30` to `2023-01-20 00:00:00+05:30`
+
+
+![download (2)](https://user-images.githubusercontent.com/108168115/213940520-54c495c8-4b83-46d3-b1d2-09a0416b03a1.png)
+
+<br />
+
+## Train Test 
+
+![download (1)](https://user-images.githubusercontent.com/108168115/213940560-c4bf3f58-192e-4c71-8c2b-648fa4b428df.png)
+
+<br />
+
+## Prediction for next 30 days
+
+![download (3)](https://user-images.githubusercontent.com/108168115/213940584-70fafc4f-6a98-4cdd-bbbb-b47180292e3c.png)
