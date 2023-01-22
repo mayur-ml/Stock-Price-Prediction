@@ -1,5 +1,5 @@
 # Stock-Price-Prediction
-#### Stock Price Prediction - The Tata Power Company Limited
+### Stock Price Prediction - `The Tata Power Company Limited`
 
 #### NSE - NSE Real Time Price. Currency in INR
  
@@ -17,10 +17,10 @@ __Requirements:__  `!pip install pandas_datareader`
 
 ## __Articles :__ 
 
-pandas-datareader : https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#remote-data-yahoo
+1. pandas-datareader : https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#remote-data-yahoo
 
-Time Series Prediction with Deep Learning in Keras by __Jason Brownlee__
+2. Time Series Prediction with Deep Learning in Keras by __Jason Brownlee__
 
-https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
+      https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
 
-__Yahoo Finance API – A Complete Guide : __ https://algotrading101.com/learn/yahoo-finance-api-guide/
+3. __Yahoo Finance API – A Complete Guide : __ https://algotrading101.com/learn/yahoo-finance-api-guide/
