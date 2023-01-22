@@ -1,5 +1,5 @@
-# Stock-Price-Prediction 📊 📈 📉
-### Stock Price Prediction - ` The Tata Power Company Limited `
+<h1 align="center">Stock-Price-Prediction 📊 📈 📉</h1>
+<h3> Stock Price Prediction - The Tata Power Company Limited</h3>
 
 #### NSE - NSE Real Time Price. Currency in INR
  
