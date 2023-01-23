@@ -55,3 +55,9 @@ __Requirements:__  `!pip install pandas_datareader`
 ## Prediction for next 30 days
 
 ![download (3)](https://user-images.githubusercontent.com/108168115/213940584-70fafc4f-6a98-4cdd-bbbb-b47180292e3c.png)
+
+
+<br />
+<br />
+<br />
+![tata](https://user-images.githubusercontent.com/108168115/213978572-cd11e774-8990-49c0-8a11-df21e327fee5.png)
