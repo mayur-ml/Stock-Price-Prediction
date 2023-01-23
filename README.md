@@ -46,6 +46,20 @@ __Requirements:__  `!pip install pandas_datareader`
 
 <br />
 
+<br />
+
+<br />
+
+
+
+![Untitled](https://user-images.githubusercontent.com/108168115/214019000-58933e8d-b702-4b68-918a-c7b9901fc3bf.png)
+
+<br />
+
+<br />
+
+<br />
+
 ## Train Test 
 
 ![download (1)](https://user-images.githubusercontent.com/108168115/213940560-c4bf3f58-192e-4c71-8c2b-648fa4b428df.png)
@@ -60,5 +74,3 @@ __Requirements:__  `!pip install pandas_datareader`
 <br />
 <br />
 <br />
-
-![tata](https://user-images.githubusercontent.com/108168115/213978572-cd11e774-8990-49c0-8a11-df21e327fee5.png)
