@@ -1,0 +1,9 @@
+Data Dictionary:-
+ 1   Open         : The opening price is the price from the first transaction of a business day.
+ 2   High         : Today's high is the highest price at which a stock traded during the course of thetrading day 
+ 3   Low          : Today's low is the lowest price that a stock trades in that day
+ 4   Close        : The listed closing price is the last price anyone paid for a share of that stock during the business hours of the exchange where the stock trades
+ 5   Adj Close    : The adjusted closing price amends a stock's closing price to reflect that stock'svalue after accounting for any corporate actions
+ 6   Volume       : The number of shares traded during a particular time period
+ 7   Dividends    : Dividend is the dividend paid to common stock owners from the profits of the company
+ 8   Stock Splits : When a company declares a stock split, the number of shares of that company increases, but the market cap remains the same. Existing shares split, but the                         underlying value remains the same
